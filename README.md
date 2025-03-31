@@ -37,7 +37,7 @@ GitAI is a web-based GitHub profile analyzer that fetches user data from GitHub'
 - Ensure your API key is valid to receive AI responses.
 
 ## Screenshots
-![GitAI UI](ss.png)
+![GitAI UI](C:\Users\prach\OneDrive\Pictures\Screenshots\ss.png)
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
