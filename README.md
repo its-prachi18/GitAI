@@ -36,8 +36,6 @@ GitAI is a web-based GitHub profile analyzer that fetches user data from GitHub'
 - Replace the placeholder `GROQ_API_KEY` with your actual API key in the JavaScript section.
 - Ensure your API key is valid to receive AI responses.
 
-## Screenshots
-![GitAI UI](C:\Users\prach\OneDrive\Pictures\Screenshots\ss.png)
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
