@@ -41,4 +41,4 @@ GitAI is a web-based GitHub profile analyzer that fetches user data from GitHub'
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
-Developed by [Your Name](https://github.com/its-prachi18)
+Developed by [Prachi Narkar](https://github.com/its-prachi18)
